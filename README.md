@@ -17,7 +17,7 @@ I am in the process of learning about automation, I am studying Systems Analysis
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagoacavalcantes&repo=thiagoacavalcantes/testes-e2e-ebac-shop.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagoacavalcantes&repo=testes-e2e-ebac-shop)](https://github.com/anuraghazra/github-readme-stats)
 
 Connect with me:
 [linkedin.com/in/thiagoacavalcantes/](https://linkedin.com/in/thiagoacavalcantes/)
