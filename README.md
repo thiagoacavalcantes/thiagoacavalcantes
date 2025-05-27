@@ -15,7 +15,10 @@ I am in the process of learning about automation, I am studying Systems Analysis
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoacavalcantes)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoacavalcantes&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagoacavalcantesrepo=thiagoacavalcantes.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrogithub1406&repo=pedrogithub2406.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 Connect with me:
 [linkedin.com/in/thiagoacavalcantes/](https://linkedin.com/in/thiagoacavalcantes/)
 
